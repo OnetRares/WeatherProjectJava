@@ -1,0 +1,7 @@
+Rares,1q2w3e,admin
+Dana,345,user
+Florina,34567,user
+Florin,5463,user
+Andrei,123456,user
+Alina,34562,user
+David,56789,user

@@ -1,0 +1,548 @@
+[
+    {
+        "currentWeather": "Sunny",
+        "latitude": 32.7712,
+        "temperature": 12.5,
+        "location": "Danes",
+        "forecast": [
+            {
+                "temperature": 22,
+                "day": "Monday"
+            },
+            {
+                "temperature": 21,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 27.6236
+    },
+    {
+        "currentWeather": "Rainy",
+        "latitude": 46.7712,
+        "temperature": 18.3,
+        "location": "Cluj",
+        "forecast": [
+            {
+                "temperature": 19,
+                "day": "Monday"
+            },
+            {
+                "temperature": 20,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 18,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 23.6236
+    },
+    {
+        "currentWeather": "Cloudy",
+        "latitude": 44.4268,
+        "temperature": 15.7,
+        "location": "Bucharest",
+        "forecast": [
+            {
+                "temperature": 16,
+                "day": "Monday"
+            },
+            {
+                "temperature": 14,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 15,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 26.1025
+    },
+    {
+        "currentWeather": "Stormy",
+        "latitude": 47.1585,
+        "temperature": 9.8,
+        "location": "Iasi",
+        "forecast": [
+            {
+                "temperature": 11,
+                "day": "Monday"
+            },
+            {
+                "temperature": 10,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 9,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 27.6014
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 45.7489,
+        "temperature": 22.4,
+        "location": "Timisoara",
+        "forecast": [
+            {
+                "temperature": 23,
+                "day": "Monday"
+            },
+            {
+                "temperature": 22,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 21,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 21.2087
+    },
+    {
+        "currentWeather": "Rainy",
+        "latitude": 45.0678,
+        "temperature": 16.5,
+        "location": "Brasov",
+        "forecast": [
+            {
+                "temperature": 17,
+                "day": "Monday"
+            },
+            {
+                "temperature": 15,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 16,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 25.15
+    },
+    {
+        "currentWeather": "Cloudy",
+        "latitude": 44.162,
+        "temperature": 10.9,
+        "location": "Craiova",
+        "forecast": [
+            {
+                "temperature": 12,
+                "day": "Monday"
+            },
+            {
+                "temperature": 11,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 10,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 23.7949
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 46.5646,
+        "temperature": 14.7,
+        "location": "Sibiu",
+        "forecast": [
+            {
+                "temperature": 15,
+                "day": "Monday"
+            },
+            {
+                "temperature": 14,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 13,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 24.6417
+    },
+    {
+        "currentWeather": "Stormy",
+        "latitude": 47.8038,
+        "temperature": 7.4,
+        "location": "Baia Mare",
+        "forecast": [
+            {
+                "temperature": 8,
+                "day": "Monday"
+            },
+            {
+                "temperature": 7,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 6,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 23.4384
+    },
+    {
+        "currentWeather": "Rainy",
+        "latitude": 48.0667,
+        "temperature": 11.2,
+        "location": "Satu Mare",
+        "forecast": [
+            {
+                "temperature": 12,
+                "day": "Monday"
+            },
+            {
+                "temperature": 11,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 10,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 22.8833
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 12.7712,
+        "temperature": 5.5,
+        "location": "Sighisoara",
+        "forecast": [
+            {
+                "temperature": 12,
+                "day": "Monday"
+            },
+            {
+                "temperature": 21,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 7.6236
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 5.7712,
+        "temperature": 5.5,
+        "location": "Albesti",
+        "forecast": [
+            {
+                "temperature": 12,
+                "day": "Monday"
+            },
+            {
+                "temperature": 21,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 8.6236
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 23.345,
+        "temperature": 18,
+        "location": "Ghimbav",
+        "forecast": [
+            {
+                "temperature": 16,
+                "day": "Monday"
+            },
+            {
+                "temperature": 17,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 15,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 19.39
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 60.132,
+        "temperature": 17,
+        "location": "Onesti",
+        "forecast": [
+            {
+                "temperature": 19,
+                "day": "Monday"
+            },
+            {
+                "temperature": 10,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 59.891
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 20.3,
+        "temperature": 17,
+        "location": "Dumbraveni",
+        "forecast": [
+            {
+                "temperature": 19,
+                "day": "Monday"
+            },
+            {
+                "temperature": 10,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 19.8
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 20.5,
+        "temperature": 17,
+        "location": "Archita",
+        "forecast": [
+            {
+                "temperature": 19,
+                "day": "Monday"
+            },
+            {
+                "temperature": 10,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 20.1
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 25.5,
+        "temperature": 17,
+        "location": "Bacau",
+        "forecast": [
+            {
+                "temperature": 19,
+                "day": "Monday"
+            },
+            {
+                "temperature": 10,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 29.3
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 25.5,
+        "temperature": 17,
+        "location": "Bacau",
+        "forecast": [
+            {
+                "temperature": 19,
+                "day": "Monday"
+            },
+            {
+                "temperature": 10,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 29.3
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 28.3,
+        "temperature": 17,
+        "location": "Giurgiu",
+        "forecast": [
+            {
+                "temperature": 19,
+                "day": "Monday"
+            },
+            {
+                "temperature": 10,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 27.9
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 60.2,
+        "temperature": 17,
+        "location": "Galati",
+        "forecast": [
+            {
+                "temperature": 19,
+                "day": "Monday"
+            },
+            {
+                "temperature": 10,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 20,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 61.9
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 60.2,
+        "temperature": 15,
+        "location": "Galati",
+        "forecast": [
+            {
+                "temperature": 20,
+                "day": "Monday"
+            },
+            {
+                "temperature": 21,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 18,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 61.9
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 27.9,
+        "temperature": 15,
+        "location": "Medias",
+        "forecast": [
+            {
+                "temperature": 18,
+                "day": "Monday"
+            },
+            {
+                "temperature": 23,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 15,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 28.9
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 27.9,
+        "temperature": 15,
+        "location": "Medias",
+        "forecast": [
+            {
+                "temperature": 18,
+                "day": "Monday"
+            },
+            {
+                "temperature": 23,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 15,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 28.9
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 27.9,
+        "temperature": 15,
+        "location": "Medias",
+        "forecast": [
+            {
+                "temperature": 18,
+                "day": "Monday"
+            },
+            {
+                "temperature": 23,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 15,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 28.9
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 20.9,
+        "temperature": 15,
+        "location": "Unga bunga",
+        "forecast": [
+            {
+                "temperature": 18,
+                "day": "Monday"
+            },
+            {
+                "temperature": 23,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 15,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 21.1
+    },
+    {
+        "currentWeather": "Sunny",
+        "latitude": 20.9,
+        "temperature": 15,
+        "location": "Unga bunga",
+        "forecast": [
+            {
+                "temperature": 18,
+                "day": "Monday"
+            },
+            {
+                "temperature": 23,
+                "day": "Tuesday"
+            },
+            {
+                "temperature": 15,
+                "day": "Wednesday"
+            }
+        ],
+        "longitude": 21.1
+    }
+]

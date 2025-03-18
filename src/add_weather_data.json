@@ -1,0 +1,23 @@
+[
+{
+  "currentWeather": "Sunny",
+  "latitude": 20.9,
+  "temperature":15,
+  "location": "Unga bunga",
+  "forecast": [
+    {
+      "temperature": 18,
+      "day": "Monday"
+    },
+    {
+      "temperature": 23,
+      "day": "Tuesday"
+    },
+    {
+      "temperature": 15,
+      "day": "Wednesday"
+    }
+  ],
+  "longitude": 21.1
+  }
+]
